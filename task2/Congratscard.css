@@ -1,0 +1,11 @@
+.stack{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.card-box{
+     background-color: aqua;
+}
